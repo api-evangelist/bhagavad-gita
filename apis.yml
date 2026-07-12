@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.bhagavadgitaapi.in
 common:
+  - type: VulnerabilityDisclosure
+    url: security/bhagavad-gita-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/bhagavad-gita-domain-security.yml
   - type: Website
     url: https://docs.bhagavadgitaapi.in
   - type: PublicAPIsListing
